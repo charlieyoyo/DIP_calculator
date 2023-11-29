@@ -16,6 +16,7 @@
 4. เขียนโค้ด โย๊ะๆๆๆๆ
 5. กดรูปแง่ง (source control) แล้วพิมใน terminal ว่า git config --global user.name "charlieyoyo" , and user.email "hw45572@horwang.ac.th"
 6. press commit
+7. creat "main.py"
 
 ## Disclaimer
 for educational purpose only, Run at your own risk ^3^
